@@ -1,8 +1,8 @@
-# React + Vite
+## ECS  Enquiry Capuring System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This enquiry capturing system enables seamless submission of customer enquiries with fields for name, email, category (e.g., Service Request, Feedback, Complaint), and a message.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/user-attachments/assets/4cbea0f3-1a2d-491c-9c02-ca9ca0fac953
+
